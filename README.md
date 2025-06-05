@@ -19,10 +19,8 @@ This is a simple command-line interface (CLI) To-Do List application developed i
 
 2.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/ToDoList-Python.git](https://github.com/your-username/ToDoList-Python.git)
+    git clone [https://github.com/Nivedhika12/ToDoList-Python.git](https://github.com/Nivedhika12/ToDoList-Python.git)
     ```
-    (Replace `your-username` and `ToDoList-Python` with your actual GitHub username and repository name)
-
 3.  **Navigate to the project directory:**
     ```bash
     cd ToDoList-Python
